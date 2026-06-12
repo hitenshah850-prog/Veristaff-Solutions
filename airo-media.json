@@ -1,0 +1,388 @@
+{
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1411316268",
+    "searchQuery": "professional business team modern office corporate finance accounting",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2237493992",
+      "https://img1.wsimg.com/isteam/getty/1445715413",
+      "https://img1.wsimg.com/isteam/getty/2250683345",
+      "https://img1.wsimg.com/isteam/getty/2161069564"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:12:54.386Z",
+    "lastUpdated": "2026-06-12T08:12:54.386Z",
+    "gettyId": "1411316268",
+    "alternativeGettyIds": [
+      "2237493992",
+      "1445715413",
+      "2250683345",
+      "2161069564"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold,cool",
+    "graphicalStyles": "photography",
+    "minimumSize": "x_large"
+  },
+  "pages/home/about": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2247474086",
+    "searchQuery": "professional business handshake partnership agreement corporate meeting",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1413758192",
+      "https://img1.wsimg.com/isteam/getty/2197738315",
+      "https://img1.wsimg.com/isteam/getty/2186986100"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:12:56.923Z",
+    "lastUpdated": "2026-06-12T08:12:56.923Z",
+    "gettyId": "2247474086",
+    "alternativeGettyIds": [
+      "1413758192",
+      "2197738315",
+      "2186986100"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,cool",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "two",
+    "minimumSize": "large"
+  },
+  "pages/home/testimonial-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1398115884",
+    "searchQuery": "professional male executive business portrait headshot confident",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/155600370",
+      "https://img1.wsimg.com/isteam/getty/1345504220"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:12:58.161Z",
+    "lastUpdated": "2026-06-12T08:12:58.161Z",
+    "gettyId": "1398115884",
+    "alternativeGettyIds": [
+      "155600370",
+      "1345504220"
+    ],
+    "requestedSize": {
+      "width": 80,
+      "height": 80,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "ageOfPeople": "adult,mature_adult"
+  },
+  "pages/home/testimonial-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1357723717",
+    "searchQuery": "professional female executive business portrait headshot confident",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1369716832",
+      "https://img1.wsimg.com/isteam/getty/988378606"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:12:59.437Z",
+    "lastUpdated": "2026-06-12T08:12:59.437Z",
+    "gettyId": "1357723717",
+    "alternativeGettyIds": [
+      "1369716832",
+      "988378606"
+    ],
+    "requestedSize": {
+      "width": 80,
+      "height": 80,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "ageOfPeople": "adult,mature_adult"
+  },
+  "pages/home/testimonial-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1355110818",
+    "searchQuery": "professional male CPA accountant business portrait headshot",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/155600370",
+      "https://img1.wsimg.com/isteam/getty/1450789952"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:13:00.935Z",
+    "lastUpdated": "2026-06-12T08:13:00.935Z",
+    "gettyId": "1355110818",
+    "alternativeGettyIds": [
+      "155600370",
+      "1450789952"
+    ],
+    "requestedSize": {
+      "width": 80,
+      "height": 80,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "ageOfPeople": "adult"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/transparent-4bed625cfed0330bf7673ac881dee73c/logo-veristaff-solutions-4bed62.png",
+    "searchQuery": "A professional corporate wordmark logo for \"VeriStaff Solutions\" — a premium US ",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/transparent-4bed625cfed0330bf7673ac881dee73c/logo-veristaff-solutions-4bed62.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/solid-8764da26acdca2ee48b28cffa375a308/logo-veristaff-solutions-8764da.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/transparent-4bed625cfed0330bf7673ac881dee73c/logo-veristaff-solutions-4bed62.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/reversed-4292e42c2e16bcfcb384661a6c1685db/logo-veristaff-solutions-4292e4.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/transparent-4bed625cfed0330bf7673ac881dee73c/logo-veristaff-solutions-4bed62.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/reversed-solid-b3844cc55c6919ad2e65afd0826677d3/logo-veristaff-solutions-b3844c.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/transparent-4bed625cfed0330bf7673ac881dee73c/logo-veristaff-solutions-4bed62.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/mockup-b63fee6bea4b8cc7113e2a04ca10d4d8/logo-veristaff-solutions-b63fee.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/transparent-4bed625cfed0330bf7673ac881dee73c/logo-veristaff-solutions-4bed62.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/landscape-mockup-b9dde4541ab56881cf9b6e495e87ccc3/logo-veristaff-solutions-b9dde4.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/transparent-4bed625cfed0330bf7673ac881dee73c/logo-veristaff-solutions-4bed62.png": {
+        "sessionId": "afefc84a-7f76-44f1-9324-351e210991d3",
+        "logoId": "4bed625c"
+      }
+    },
+    "userModified": true,
+    "createdAt": "2026-06-12T08:14:00.386Z",
+    "lastUpdated": "2026-06-12T09:21:21.650Z"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-transparent-893370b608a8c19f19c11770566f03b3/logo-veristaff-solutions-893370.png",
+    "searchQuery": "A professional corporate wordmark logo for \"VeriStaff Solutions\" — a premium US ",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-transparent-893370b608a8c19f19c11770566f03b3/logo-veristaff-solutions-893370.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-solid-7f237055c0180c4dc48071925e5e2568/logo-veristaff-solutions-7f2370.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-transparent-893370b608a8c19f19c11770566f03b3/logo-veristaff-solutions-893370.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-reversed-6f1961235cb85fee1e4b588a522851fb/logo-veristaff-solutions-6f1961.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-transparent-893370b608a8c19f19c11770566f03b3/logo-veristaff-solutions-893370.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-reversed-solid-b244d9108147ed8b833f3c55eeefe390/logo-veristaff-solutions-b244d9.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-transparent-893370b608a8c19f19c11770566f03b3/logo-veristaff-solutions-893370.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-mockup-5fde5d15a4d20703c6dcafb4ac2985a6/logo-veristaff-solutions-5fde5d.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-transparent-893370b608a8c19f19c11770566f03b3/logo-veristaff-solutions-893370.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-mockup-5fde5d15a4d20703c6dcafb4ac2985a6/logo-veristaff-solutions-5fde5d.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/horizontal-transparent-893370b608a8c19f19c11770566f03b3/logo-veristaff-solutions-893370.png": {
+        "sessionId": "afefc84a-7f76-44f1-9324-351e210991d3",
+        "logoId": "4bed625c"
+      }
+    },
+    "userModified": true,
+    "createdAt": "2026-06-12T08:14:00.386Z",
+    "lastUpdated": "2026-06-12T09:21:22.782Z"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-transparent-be15b9cba84294d1bf248cc0f85ed77c/logo-veristaff-solutions-be15b9.png",
+    "searchQuery": "A professional corporate wordmark logo for \"VeriStaff Solutions\" — a premium US ",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-transparent-be15b9cba84294d1bf248cc0f85ed77c/logo-veristaff-solutions-be15b9.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-solid-7ccc4605e98623fc8a0f733adc50d9b6/logo-veristaff-solutions-7ccc46.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-transparent-be15b9cba84294d1bf248cc0f85ed77c/logo-veristaff-solutions-be15b9.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-reversed-9252f0ce92294f6cca955df7e441152f/logo-veristaff-solutions-9252f0.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-transparent-be15b9cba84294d1bf248cc0f85ed77c/logo-veristaff-solutions-be15b9.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-reversed-solid-36b39e7f31b25f6d0691237a97ccc9a2/logo-veristaff-solutions-36b39e.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-transparent-be15b9cba84294d1bf248cc0f85ed77c/logo-veristaff-solutions-be15b9.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-mockup-af44efd0c210a9f8f2400f8489e5468a/logo-veristaff-solutions-af44ef.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-transparent-be15b9cba84294d1bf248cc0f85ed77c/logo-veristaff-solutions-be15b9.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-mockup-af44efd0c210a9f8f2400f8489e5468a/logo-veristaff-solutions-af44ef.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bfc7a848-8593-47bc-b9f4-aa7e4d6faa91/session/afefc84a-7f76-44f1-9324-351e210991d3/vertical-transparent-be15b9cba84294d1bf248cc0f85ed77c/logo-veristaff-solutions-be15b9.png": {
+        "sessionId": "afefc84a-7f76-44f1-9324-351e210991d3",
+        "logoId": "4bed625c"
+      }
+    },
+    "userModified": true,
+    "createdAt": "2026-06-12T08:14:00.386Z",
+    "lastUpdated": "2026-06-12T09:21:23.845Z"
+  },
+  "pages/about/team": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2256125202",
+    "searchQuery": "professional business team meeting office collaboration diverse",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2227879550",
+      "https://img1.wsimg.com/isteam/getty/2204636189",
+      "https://img1.wsimg.com/isteam/getty/2219300792"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:21:13.390Z",
+    "lastUpdated": "2026-06-12T08:21:13.390Z",
+    "gettyId": "2256125202",
+    "alternativeGettyIds": [
+      "2227879550",
+      "2204636189",
+      "2219300792"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool,warm",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "group",
+    "minimumSize": "large"
+  },
+  "pages/about/office": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2229783101",
+    "searchQuery": "modern corporate office interior professional workspace",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2238436641",
+      "https://img1.wsimg.com/isteam/getty/2232857577",
+      "https://img1.wsimg.com/isteam/getty/2209816898"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:21:16.452Z",
+    "lastUpdated": "2026-06-12T08:21:16.452Z",
+    "gettyId": "2229783101",
+    "alternativeGettyIds": [
+      "2238436641",
+      "2232857577",
+      "2209816898"
+    ],
+    "requestedSize": {
+      "width": 1200,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "none",
+    "minimumSize": "large"
+  },
+  "pages/industries/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1486832571",
+    "searchQuery": "professional accountant CPA firm office financial documents review",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:27:05.070Z",
+    "lastUpdated": "2026-06-12T08:27:05.070Z",
+    "gettyId": "1486832571",
+    "requestedSize": {
+      "width": 1920,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool,bold",
+    "graphicalStyles": "photography",
+    "minimumSize": "x_large"
+  },
+  "pages/services/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/955784980",
+    "searchQuery": "accounting professionals working financial documents office desk",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1486832571"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:29:53.038Z",
+    "lastUpdated": "2026-06-12T08:29:53.038Z",
+    "gettyId": "955784980",
+    "alternativeGettyIds": [
+      "1486832571"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool,bold",
+    "graphicalStyles": "photography",
+    "minimumSize": "x_large"
+  },
+  "pages/contact/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2238394361",
+    "searchQuery": "professional business office reception desk corporate modern",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2269886617",
+      "https://img1.wsimg.com/isteam/getty/1442836751",
+      "https://img1.wsimg.com/isteam/getty/1333685153"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:35:24.906Z",
+    "lastUpdated": "2026-06-12T08:35:24.906Z",
+    "gettyId": "2238394361",
+    "alternativeGettyIds": [
+      "2269886617",
+      "1442836751",
+      "1333685153"
+    ],
+    "requestedSize": {
+      "width": 1200,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "none",
+    "minimumSize": "large"
+  },
+  "pages/careers/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2218411106",
+    "searchQuery": "young Indian accounting professionals working modern office team collaboration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2199640019",
+      "https://img1.wsimg.com/isteam/getty/1820145967",
+      "https://img1.wsimg.com/isteam/getty/2009989108"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-12T08:45:27.370Z",
+    "lastUpdated": "2026-06-12T08:45:27.370Z",
+    "gettyId": "2218411106",
+    "alternativeGettyIds": [
+      "2199640019",
+      "1820145967",
+      "2009989108"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,bold",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "group",
+    "minimumSize": "x_large"
+  }
+}
